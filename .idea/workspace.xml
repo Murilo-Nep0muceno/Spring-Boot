@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b175ba-10da-4f97-b8dc-65f725fe2686" name="Changes" comment="Spring Beans e ComponetScan">
-      <change afterPath="$PROJECT_DIR$/anime-service/src/main/java/acadamy/devdojo/controllers/AnimesList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime-service/src/main/java/acadamy/devdojo/AnimeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/anime-service/src/main/java/acadamy/devdojo/AnimeServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime-service/src/main/java/outside/devdojo/OutsideCOntroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anime-service/src/main/java/acadamy/devdojo/controllers/AnimesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/anime-service/src/main/java/acadamy/devdojo/controllers/AnimesControler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anime-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/anime-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="video05" />
+        <entry key="$PROJECT_DIR$" value="video09" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,8 +62,8 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.AnimeServiceApplication.executor": "Debug",
-    "git-widget-placeholder": "video08",
+    "Spring Boot.AnimeServiceApplication.executor": "Run",
+    "git-widget-placeholder": "video09",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/pc-mint/IdeaProjects/Spring-Boot",
     "node.js.detected.package.eslint": "true",
@@ -111,10 +110,16 @@
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="anime-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="acadamy.devdojo.AnimeServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx500m -XshowSettings:vm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.AnimeServiceApplicationTests" />
+      <item itemvalue="JUnit.AnimeServiceApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.AnimeServiceApplication" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.AnimeServiceApplicationTests" />
@@ -139,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741654221565</updated>
       <workItem from="1741654222731" duration="3437000" />
-      <workItem from="1741697365316" duration="9061000" />
+      <workItem from="1741697365316" duration="11166000" />
     </task>
     <task id="LOCAL-00001" summary="added external pom.xml with modules">
       <option name="closed" value="true" />
@@ -181,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741705993357</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Spring Beans e ComponetScan">
+      <option name="closed" value="true" />
+      <created>1741717379661</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741717379661</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
