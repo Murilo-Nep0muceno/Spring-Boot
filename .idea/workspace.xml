@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b175ba-10da-4f97-b8dc-65f725fe2686" name="Changes" comment="Spring Beans e ComponetScan">
+      <change afterPath="$PROJECT_DIR$/anime-service/src/main/java/acadamy/devdojo/controllers/HeroCOntroller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime-service/src/main/java/acadamy/devdojo/controllers/AnimesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/anime-service/src/main/java/acadamy/devdojo/controllers/AnimesControler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/anime-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.AnimeServiceApplication.executor": "Run",
-    "git-widget-placeholder": "video09",
+    "git-widget-placeholder": "video10",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/pc-mint/IdeaProjects/Spring-Boot",
     "node.js.detected.package.eslint": "true",
@@ -71,6 +70,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.import",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -145,6 +145,7 @@
       <updated>1741654221565</updated>
       <workItem from="1741654222731" duration="3437000" />
       <workItem from="1741697365316" duration="11166000" />
+      <workItem from="1741732387802" duration="2083000" />
     </task>
     <task id="LOCAL-00001" summary="added external pom.xml with modules">
       <option name="closed" value="true" />
